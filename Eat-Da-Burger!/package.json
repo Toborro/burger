@@ -1,0 +1,25 @@
+{
+  "name": "eat-dat-burger",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger is a program that makes you eat burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toborro/burger.git"
+  },
+  "keywords": [
+    "Burger",
+    "Node",
+    "Handlebars"
+  ],
+  "author": "Zachary Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toborro/burger/issues"
+  },
+  "homepage": "https://github.com/Toborro/burger#readme"
+}
